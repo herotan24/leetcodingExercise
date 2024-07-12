@@ -4,7 +4,7 @@
       "adapter": "vscode-cpptools",
       "variables": {
         "BUILDME": {
-          "shell": "gcc -o ${workspaceRoot}/a.out -g -O0 -Wall -Werror ${workspaceRoot}/main.c"
+          "shell": "sh build.sh"
         },
         "arch": {
           "shell": "uname -m"
