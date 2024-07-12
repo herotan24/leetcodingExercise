@@ -1,1 +1,14 @@
 output
+.DS_Store
+.cache/
+*.swp
+
+a.out
+a.out.dSYM
+
+compile_commands.json
+cscope.in.out
+cscope.out
+cscope.po.out
+tags
+
